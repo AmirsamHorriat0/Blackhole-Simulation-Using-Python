@@ -2,6 +2,7 @@
 Imagine a black hole sitting in the center of space, surrounded by hundreds of tiny particles—like stars or cosmic dust. This project is a simulation that shows how those particles move under the black hole’s gravity. Depending on how fast the particles are moving at the start, they can either orbit, spiral in, or even escape.
 
 # Black Hole Particle Simulation
+![Static Badge](https://img.shields.io/badge/blackhole?style=flat-square)
 
 This project simulates the motion of particles (like stars or space dust) around a black hole using **Newtonian physics** and simple numerical integration.  
 
@@ -167,3 +168,4 @@ This demonstrates the **interaction between velocity and gravity**, showing visu
 ```bash
 python main.py
 
+* Keep in mid that my mathmatics knowledges are not that high so in this case the project have been done with a help of AI 
