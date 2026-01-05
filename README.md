@@ -4,7 +4,7 @@ Imagine a black hole sitting in the center of space, surrounded by hundreds of t
 # Black Hole Particle Simulation
 ![Black Hole Simulation](https://img.shields.io/badge/Black_Hole-Simulation-blue?style=for-the-badge&logo=python)
 
-
+#### Video Demo:  <https://youtu.be/PyFCohSzt5k>
 This project simulates the motion of particles (like stars or space dust) around a black hole using **Newtonian physics** and simple numerical integration.  
 
 Particles move under the gravitational pull of a fixed black hole at the center. Depending on their initial velocity, they can:
